@@ -1,0 +1,15 @@
+Nome: JUNIOR
+Sim; Sim; MEDIO
+Apto: Sim
+Justificativa: 
+
+Nome: ALESSANDRA
+Nao; Sim; GRANDE
+Apto: Nao
+Justificativa: O candidato nao possui condicoes financeiras
+
+Nome: RENAN
+Sim; Sim; PEQUENO
+Apto: Sim
+Justificativa: 
+

@@ -1,0 +1,48 @@
+Nome: BOOB
+Idade: 2932
+Porte: MEDIO
+Raca: SRD
+Lar temporario: O
+Nome do responsavel: 
+Data de adocao: 
+
+Nome: A
+Idade: 98
+Porte: GRANDE
+Raca: SRD
+Lar temporario: L
+Nome do responsavel: 
+Data de adocao: 
+
+Nome: TEYLOR
+Idade: 89
+Porte: GRANDE
+Raca: SRD
+Lar temporario: G
+Nome do responsavel: 
+Data de adocao: 
+
+Nome: JUNIOR
+Idade: 87
+Porte: MEDIO
+Raca: SRD
+Lar temporario: J
+Nome do responsavel: 
+Data de adocao: 
+
+Nome: CLAYTON
+Idade: 32
+Porte: PEQUENO
+Raca: SRD
+Lar temporario: H
+Nome do responsavel: 
+Data de adocao: 
+
+Nome: JAILSON
+Idade: 14
+Porte: MEDIO
+Raca: DOGUINHO
+Lar temporario: LAR TORRES DE MELO
+Nome do responsavel: 
+Data de adocao: 
+
