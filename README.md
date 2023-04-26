@@ -1,7 +1,9 @@
 # Ado-oAnimaisPython
-Programa que simula um sistema de "Instituição de adoção de animais" em Python.
+Program that simulates an "Animal Adoption Institution" system in Python.
 
-Trabalho Final da disciplina de Fundamentos de Programação - Ciência da Computação UFC
+Final work of the Fundamentals of Programming course - Computer Science UFC
+
+
 
 
 Contribuições: BrandaoZ
